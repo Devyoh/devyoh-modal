@@ -1,0 +1,60 @@
+._2vs-X {
+    background-color: rgba(0, 0, 0, 0.792);
+    width: 100vw;
+    height: 100vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align: center;
+    opacity: 1;
+    animation-name: _1E8Gh;
+    animation-duration: 0.3s;
+    animation-timing-function: ease-in-out;
+    z-index: 5000;
+  }
+  
+  ._1pyOm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 70%;
+    border-radius: 10px;
+  }
+  
+  ._lHXPM {
+      width: 25px;
+      height: 25px;
+      position: absolute;
+      right: 5px;
+      border: 1px solid rgba(0, 0, 0, 0);
+      padding: 1px;
+      border-radius: 100%;
+      top: 5px;
+      background: rgba(0, 0, 0, 0.218);
+      transition: background-color 0.3s;
+  }
+  
+  ._lHXPM:hover {
+    background: rgb(0, 0, 0);
+    color: white;
+    cursor: pointer;
+  }
+  
+  ._2xulF {
+    margin: 45px 0 0 0;
+    font-size: 40px;
+  }
+  
+  ._3fmQp {
+    padding: 30px 50px 50px 50px;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  @keyframes _1E8Gh {
+    from { opacity: 0}
+    to { opacity: 1}
+  }
