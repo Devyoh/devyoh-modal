@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm install --save modal-devyoh-react
+npm install --save devyoh-modal
 ```
 
 ## Usage
